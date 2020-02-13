@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">A1_1155130475</string>
+    <string name="main_activity_name">IEMS5722</string>
+    <string name="chat_activity_name">Chatroom</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_name">Tang Qin 1155130475</string>
+    <string name="default_chatroom">Default Chatroom</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="message_hint">Input your message</string>
+</resources>
